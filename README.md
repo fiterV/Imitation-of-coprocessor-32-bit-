@@ -3,7 +3,7 @@
 <b> 1 bit - sign </b>
 <b> 8 bits - bias </b>
 <b> 23 bits - mantissa </b>
-(numbers are shown in <b>IEE754</b> format
+(numbers are shown in <b>IEE754</b> format)
 
 <h6> Allowed operations </h6>
 <ul>
